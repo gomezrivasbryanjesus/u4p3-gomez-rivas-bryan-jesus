@@ -1,8 +1,8 @@
 <!-- título del repo: cambia por tus nombres reales -->
-# U4S8 — Gomez Rivas Bryan Jesus
+# U4P3 — Gomez Rivas Bryan Jesus
 
 ## Demo en vivo (producción)
-https://u4s8-gomez-rivas-bryan-jesus.onrender.com
+https://u4p3-gomez-rivas-bryan-jesus.onrender.com
 
 ## Qué hace este proyecto
 Este proyecto permite crear servicios en una base de datos MySQL utilizando una interfaz, a los que se les puede añadir un nombre, descripción, precio y categoria.
